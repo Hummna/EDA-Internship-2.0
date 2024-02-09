@@ -5,7 +5,7 @@ This repository contains my weekly progress reports, code submissions, and proje
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: malikhamna107@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 
