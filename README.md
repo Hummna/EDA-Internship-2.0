@@ -5,8 +5,5 @@ This repository contains my weekly progress reports, code submissions, and proje
 
 ## Contact
 
-- Email: malikhamna107@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
-
-This project is licensed under the [MIT License](/LICENSE).
+- Email: your.email@example.com
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/hamnamalik107)
